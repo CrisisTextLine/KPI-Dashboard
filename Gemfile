@@ -10,3 +10,4 @@ gem 'time_diff'
 gem 'rest-client'
 
 gem 'mysql'
+gem "rack", ">= 1.6.11"
